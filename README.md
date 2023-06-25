@@ -40,3 +40,8 @@ You'll have two week to complete this task. Hence, the deadline of this task is 
 - Make a new entry into submissions as explained in comments, i.e, add your github repo link and .apk file of your application
 - Commit and Push the changes in respective readme (either  Android.md or Flutter.md)
 - Make a Pull request and add your repo and apk link in PR template too.
+
+## Submissions
+
+- Priyansh Sahu - [Birthday-Reminder][Link](https://github.com/thepriyansh01/Birthday-Reminder) [APK]([APK Link](https://github.com/thepriyansh01/Birthday-Reminder/blob/main/app-release.apk))
+
